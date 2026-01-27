@@ -126,3 +126,16 @@
 
   <br><br>
 
+  <footer align="center">
+    <a href="https://www.eazydiner.com/delhi-ncr/24-7-restaurant-the-lalit-connaught-place-cp-110472/menu" target="_blank">
+      <img 
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADhCAMAAADmr0l2AAAA4VBMVEUnGAH////3v08AAAD/xlL8w1ElFgAjFAARAAANAAAfEAALAAD/x1IIAAD6wlAdDgAXCAAbDAAXAAD/y1QWBgDtt0sVAADjr0iuhTUgDgDptErPn0HWpUPzvE3frEaNayrBlDxALQ2qgjS6jzqbdi9KNRFbQxhpTh2IZyjr6uh/YCWUcSx4WiLHmT5kShu9kTo6KAtROxQyIQbX1dJxVCCdmJORjIbFw8D08/JvaGBhWlKvrKiAenS+vLq0sa7e3dpTSj9mX1c6LiEyJBNIPjOEf3mUkIqkoJs1KRlWTkRDOC0iYd8WAAAdBklEQVR4nN1daWOiOhdGAiGAqIj7Li61Wq1au8xMO9NZe+f+/x/0AiYh7ODSet/ny73TUuUhZz8ngc..."
+        alt="View Menu"
+        height="20"
+        width="30"
+      >
+    </a>
+  </footer>
+
+</body>
+</html>
