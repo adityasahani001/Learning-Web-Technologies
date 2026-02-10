@@ -1,0 +1,24 @@
+body {
+  cursor: none;
+}
+
+.cursor {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #a855f7;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  transition: transform 0.15s ease;
+  z-index: 9999;
+}
+
+.cursor-dot {
+  width: 6px;
+  height: 6px;
+  background: #a855f7;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+}
